@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Sam Reiswig's blog"
+
+[output.html]
+mathjax-support = true
