@@ -7,3 +7,4 @@ title = "Sam Reiswig"
 
 [output.html]
 mathjax-support = true
+editable = true

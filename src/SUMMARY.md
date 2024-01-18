@@ -1,6 +1,8 @@
 # Summary
-[Introduction](./AboutMe.md)
+[Introduction](./Summary/AboutMe.md)
 
 # Blog
-- [Reasoning in AI](./Reasoning.md)
+- [Reasoning in AI](./Blog/Reasoning.md)
 
+# Personal Musings
+- [Ideas vs Action](./Musings/IdeasVsActions.md)

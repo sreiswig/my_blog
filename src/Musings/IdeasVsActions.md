@@ -1,0 +1,1 @@
+It's one thing to have good ideas but it's another to take action on them. When you can, take action on them and see where your life goes from there.
