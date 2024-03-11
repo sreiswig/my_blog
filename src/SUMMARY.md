@@ -2,7 +2,7 @@
 [Introduction](./Summary/AboutMe.md)
 
 # Blog
-- [Reasoning in AI](./Blog/Reasoning.md)
+- [AIxCC](./Blog/AIxCC.md)
 
 # Personal Musings
 - [Ideas vs Action](./Musings/IdeasVsActions.md)
