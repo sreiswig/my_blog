@@ -9,3 +9,5 @@ title = "Sam Reiswig"
 mathjax-support = true
 editable = true
 no-section-label = true
+preferred-dark-theme = "navy"
+default-theme = "navy"
