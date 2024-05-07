@@ -1,7 +1,5 @@
-# The AIxCC Comptetiton
-
-At DEF CON 2023 DARPA announced the AI Cyber Challenge to Redefine Code Security.  
-The challenge is to design a Cyber Reasoning System to detect and patch the Top 25 Most Dangerous Software Weaknesses.  
+# AIxCC
+The AIxCC is a challenge is to design a Cyber Reasoning System to detect and patch the Top 25 Most Dangerous Software Weaknesses.  
 
 
 
